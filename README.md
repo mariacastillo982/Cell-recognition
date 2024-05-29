@@ -16,7 +16,7 @@ Automatically creates a report with the segmented results.
 Clone the repository:
 
 ```
-git clone https://github.com/mariacastillo982/Cell_recognition.git
+git clone https://github.com/mariacastillo982/Cell-recognition.git
 cd cell-recognition-stardist
 ```
 

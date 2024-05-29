@@ -17,7 +17,7 @@ Clone the repository:
 
 ```
 git clone https://github.com/mariacastillo982/Cell-recognition.git
-cd cell-recognition-stardist
+cd Cell-recognition
 ```
 
 Create a virtual environment and activate it:
